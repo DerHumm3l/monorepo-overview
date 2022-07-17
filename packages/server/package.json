@@ -1,8 +1,8 @@
 {
-  "name": "npm-workspaces",
+  "name": "node-server",
   "version": "1.0.0",
-  "description": "A monorepo done with npm workspaces",
-  "private": "true",
+  "description": "A express server",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,15 +11,12 @@
     "url": "git+https://github.com/DerHumm3l/monorepo-overview.git"
   },
   "keywords": [
-    "npm-workspaces"
+    "express"
   ],
   "author": "Lukas Maibaum",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DerHumm3l/monorepo-overview/issues"
   },
-  "homepage": "https://github.com/DerHumm3l/monorepo-overview#readme",
-  "workspaces": [
-    "packages/*"
-  ]
+  "homepage": "https://github.com/DerHumm3l/monorepo-overview#readme"
 }
