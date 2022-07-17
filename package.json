@@ -1,0 +1,22 @@
+{
+  "name": "npm-workspaces",
+  "version": "1.0.0",
+  "description": "A monorepo done with npm workspaces",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerHumm3l/monorepo-overview.git"
+  },
+  "keywords": [
+    "npm-workspaces"
+  ],
+  "author": "Lukas Maibaum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DerHumm3l/monorepo-overview/issues"
+  },
+  "homepage": "https://github.com/DerHumm3l/monorepo-overview#readme"
+}
