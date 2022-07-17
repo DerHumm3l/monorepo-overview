@@ -1,5 +1,5 @@
 {
-  "name": "node-server",
+  "name": "express-server",
   "version": "1.0.0",
   "description": "A express server",
   "main": "src/index.js",
