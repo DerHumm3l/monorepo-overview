@@ -1,0 +1,12 @@
+[
+  {
+    "title": "How to be fit",
+    "keywords": ["fitness", "health"],
+    "sections": ["lorem", "ipsum"]
+  },
+  {
+    "title": "Climate crisis",
+    "keywords": ["climate", "environment"],
+    "sections": ["lorem", "ipsum"]
+  }
+]
